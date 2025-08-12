@@ -1,0 +1,14 @@
+/home/pandemicpanda30/Downloads/temp/MyApp/bin/Debug/net8.0/MyApp
+/home/pandemicpanda30/Downloads/temp/MyApp/bin/Debug/net8.0/MyApp.deps.json
+/home/pandemicpanda30/Downloads/temp/MyApp/bin/Debug/net8.0/MyApp.runtimeconfig.json
+/home/pandemicpanda30/Downloads/temp/MyApp/bin/Debug/net8.0/MyApp.dll
+/home/pandemicpanda30/Downloads/temp/MyApp/bin/Debug/net8.0/MyApp.pdb
+/home/pandemicpanda30/Downloads/temp/MyApp/obj/Debug/net8.0/MyApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/pandemicpanda30/Downloads/temp/MyApp/obj/Debug/net8.0/MyApp.AssemblyInfoInputs.cache
+/home/pandemicpanda30/Downloads/temp/MyApp/obj/Debug/net8.0/MyApp.AssemblyInfo.cs
+/home/pandemicpanda30/Downloads/temp/MyApp/obj/Debug/net8.0/MyApp.csproj.CoreCompileInputs.cache
+/home/pandemicpanda30/Downloads/temp/MyApp/obj/Debug/net8.0/MyApp.dll
+/home/pandemicpanda30/Downloads/temp/MyApp/obj/Debug/net8.0/refint/MyApp.dll
+/home/pandemicpanda30/Downloads/temp/MyApp/obj/Debug/net8.0/MyApp.pdb
+/home/pandemicpanda30/Downloads/temp/MyApp/obj/Debug/net8.0/MyApp.genruntimeconfig.cache
+/home/pandemicpanda30/Downloads/temp/MyApp/obj/Debug/net8.0/ref/MyApp.dll
