@@ -8,6 +8,6 @@ dotnet run
 
 ## Running standalone C# files
 ```
-msc yo.cs 
+mcs yo.cs 
 mono yo.exe
 ```

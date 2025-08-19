@@ -1,0 +1,15 @@
+/home/pandemicpanda30/Desktop/Code/C#/ClassesAndMethods/bin/Debug/net8.0/ClassesAndMethods
+/home/pandemicpanda30/Desktop/Code/C#/ClassesAndMethods/bin/Debug/net8.0/ClassesAndMethods.deps.json
+/home/pandemicpanda30/Desktop/Code/C#/ClassesAndMethods/bin/Debug/net8.0/ClassesAndMethods.runtimeconfig.json
+/home/pandemicpanda30/Desktop/Code/C#/ClassesAndMethods/bin/Debug/net8.0/ClassesAndMethods.dll
+/home/pandemicpanda30/Desktop/Code/C#/ClassesAndMethods/bin/Debug/net8.0/ClassesAndMethods.pdb
+/home/pandemicpanda30/Desktop/Code/C#/ClassesAndMethods/obj/Debug/net8.0/ClassesAndMethods.GeneratedMSBuildEditorConfig.editorconfig
+/home/pandemicpanda30/Desktop/Code/C#/ClassesAndMethods/obj/Debug/net8.0/ClassesAndMethods.AssemblyInfoInputs.cache
+/home/pandemicpanda30/Desktop/Code/C#/ClassesAndMethods/obj/Debug/net8.0/ClassesAndMethods.AssemblyInfo.cs
+/home/pandemicpanda30/Desktop/Code/C#/ClassesAndMethods/obj/Debug/net8.0/ClassesAndMethods.csproj.CoreCompileInputs.cache
+/home/pandemicpanda30/Desktop/Code/C#/ClassesAndMethods/obj/Debug/net8.0/ClassesAndMethods.sourcelink.json
+/home/pandemicpanda30/Desktop/Code/C#/ClassesAndMethods/obj/Debug/net8.0/ClassesAndMethods.dll
+/home/pandemicpanda30/Desktop/Code/C#/ClassesAndMethods/obj/Debug/net8.0/refint/ClassesAndMethods.dll
+/home/pandemicpanda30/Desktop/Code/C#/ClassesAndMethods/obj/Debug/net8.0/ClassesAndMethods.pdb
+/home/pandemicpanda30/Desktop/Code/C#/ClassesAndMethods/obj/Debug/net8.0/ClassesAndMethods.genruntimeconfig.cache
+/home/pandemicpanda30/Desktop/Code/C#/ClassesAndMethods/obj/Debug/net8.0/ref/ClassesAndMethods.dll
